@@ -1,2 +1,7 @@
 # Exclude Genie space config files (not supported by Databricks Git folders)
 *.geniespace.json
+
+bronze_referencias.ipynb
+bronze_vra.ipynb
+silver-tables.ipynb
+gold_governanca.ipynb
