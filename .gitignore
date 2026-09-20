@@ -1,0 +1,2 @@
+# Exclude Genie space config files (not supported by Databricks Git folders)
+*.geniespace.json
